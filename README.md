@@ -3,5 +3,5 @@ This code is an example of few-shot prompting, using chatgpt API, giving the mod
 
 # Prerequisites
 pip install openai </br>
-openAI account
+openAI account </br>
 openAI API_KEY
